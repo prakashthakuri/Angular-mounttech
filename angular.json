@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "component-practice-assignment"
+    }
+  },
+  "defaultProject": "component-practice-assignment",
+  "cli": {
+    "analytics": false
+  }
 }
