@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "data-binding-examples"
+    }
+  },
+  "defaultProject": "data-binding-examples",
+  "cli": {
+    "analytics": false
+  }
 }
