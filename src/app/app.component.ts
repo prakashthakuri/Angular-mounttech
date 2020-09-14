@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'my-first-app';
+  serverStatus = false
+  serverPort = 4200
+
+  getServerStatus() {
+    return this.serverStatus
+  }
 }
